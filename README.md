@@ -1,1 +1,1 @@
-# detect_breast_cancer
+# Breast_Cancer_Prediction
